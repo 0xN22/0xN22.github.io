@@ -2,4 +2,4 @@
 
 This repo hosts my Astro-based personal website.
 
-URL - https://0xN22.github.io/
+Live at https://0xn22.com
